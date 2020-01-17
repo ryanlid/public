@@ -1,5 +1,5 @@
 {
-  "code": 0,
+  "code": "0",
   "message": "success",
   "data": [
     {
@@ -28,6 +28,20 @@
       "image": "https://images.oonnnoo.com/goods/cover/lenovo.jpg",
       "presentPrice": 7799,
       "goodsId": "004",
+      "oriPrice": 8299
+    },
+    {
+      "name": "华硕(ASUS) 灵耀Deluxe14 英特尔酷睿i7 14.0英寸创意设计轻薄笔记本电脑(i7-8565U 8G 512G 2G独显 IPS)蓝",
+      "image": "https://images.oonnnoo.com/goods/cover/asus.jpg",
+      "presentPrice": 6899,
+      "goodsId": "005",
+      "oriPrice": 7399
+    },
+    {
+      "name": "三星SAMSUNG 星曜7系15.6英寸 超窄高清屏超轻薄本 14.5小时续航 商务办公笔记本电脑 i7/8G/512G/MX250 银色",
+      "image": "https://images.oonnnoo.com/goods/cover/samsung.jpg",
+      "presentPrice": 7299,
+      "goodsId": "006",
       "oriPrice": 8299
     }
   ]
