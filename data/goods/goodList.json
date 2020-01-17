@@ -1,0 +1,34 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": [
+    {
+      "name": "Apple 2019新品 MacBook Pro 13.3【带触控栏】八代i5 8G 512G 银色 笔记本电脑 轻薄本 MV9A2CH/A",
+      "image": "https://images.oonnnoo.com/goods/cover/apple.jpg",
+      "presentPrice": 14269,
+      "goodsId": "001",
+      "oriPrice": 14408
+    },
+    {
+      "name": "外星人（alienware）全新M15-R2 15.6英寸九代酷睿窄边电竞屏吃鸡游戏笔记本电脑 4505黑 i5-9300H/GTX1650 单主机",
+      "image": "https://images.oonnnoo.com/goods/cover/alienware.jpg",
+      "presentPrice": 10999,
+      "goodsId": "002",
+      "oriPrice": 12999
+    },
+    {
+      "name": "戴尔DELL游匣G3 15.6英寸英特尔酷睿i5游戏笔记本电脑(i5-9300H 8G 512G GTX1650 4G 72色域 2年整机上门)",
+      "image": "https://images.oonnnoo.com/goods/cover/dell.jpg",
+      "presentPrice": 5589,
+      "goodsId": "003",
+      "oriPrice": 6099
+    },
+    {
+      "name": "联想(Lenovo)拯救者Y7000P 2019英特尔酷睿i5 15.6英寸游戏笔记本电脑(i5-9300H 16G 1TSSD GTX1660Ti 144Hz)",
+      "image": "https://images.oonnnoo.com/goods/cover/lenovo.jpg",
+      "presentPrice": 7799,
+      "goodsId": "004",
+      "oriPrice": 8299
+    }
+  ]
+}
