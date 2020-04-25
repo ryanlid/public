@@ -170,6 +170,16 @@
         "ios": "https://apps.apple.com/cn/app/id583700738",
         "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.greenpoint.android.mc10086.activity"
       }
+    },
+    {
+      "id": 10028,
+      "name": "爱奇艺",
+      "icon": "https://images.oonnnoo.com/appicons/iqiyi.png",
+      "url": "iqiyi://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id393765873",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.qiyi.video"
+      }
     }
   ]
 }
