@@ -180,6 +180,66 @@
         "ios": "https://apps.apple.com/cn/app/id393765873",
         "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.qiyi.video"
       }
+    },
+    {
+      "id": 10029,
+      "name": "广东移动",
+      "icon": "https://images.oonnnoo.com/appicons/gdyd.png",
+      "url": "gmcchhpay://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id462125072",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.kingpoint.gmcchh"
+      }
+    },
+    {
+      "id": 10030,
+      "name": "QQ音乐",
+      "icon": "https://images.oonnnoo.com/appicons/qqmusic.png",
+      "url": "qqmusic://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id414603431",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.tencent.qqmusic"
+      }
+    },
+    {
+      "id": 10031,
+      "name": "阿里云",
+      "icon": "https://images.oonnnoo.com/appicons/aliyun.png",
+      "url": "aliyun://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id981011420",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.alibaba.aliyun"
+      }
+    },
+    {
+      "id": 10032,
+      "name": "肯德基",
+      "icon": "https://images.oonnnoo.com/appicons/kfc.png",
+      "url": "kfcapplinkurl://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id587238847",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.yek.android.kfc.activitys"
+      }
+    },
+    {
+      "id": 10033,
+      "name": "麦当劳",
+      "icon": "https://images.oonnnoo.com/appicons/mcdonalds.png",
+      "url": "mcdmobileapp://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id1054598922",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.mcdonalds.gma.cn"
+      }
+    },
+    {
+      "id": 10034,
+      "name": "星巴克中国",
+      "icon": "https://images.oonnnoo.com/appicons/starbucks.png",
+      "url": "sbuxcn://",
+      "pkgs": {
+        "ios": "https://apps.apple.com/cn/app/id499819758",
+        "myapp": "https://a.app.qq.com/o/simple.jsp?pkgname=com.starbucks.cn"
+      }
     }
   ]
 }
